@@ -214,7 +214,7 @@ npm install
 Create a `.env` file in the root directory:
 ```env
 PORT=your_port
-MONGODB_URI=mongodb://localhost:27017/authentication-system
+MONGODB_URI=your_mongoDB_URI
 JWT_SECRET=your_super_secret_jwt_key_here
 
 # Google OAuth2 Configuration
